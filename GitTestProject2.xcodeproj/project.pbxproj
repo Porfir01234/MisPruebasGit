@@ -13,6 +13,7 @@
 		F1114DE22C8768D70025E4EB /* Base in Resources */ = {isa = PBXBuildFile; fileRef = F1114DE12C8768D70025E4EB /* Base */; };
 		F1114DE42C8768DB0025E4EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1114DE32C8768DB0025E4EB /* Assets.xcassets */; };
 		F1114DE72C8768DB0025E4EB /* Base in Resources */ = {isa = PBXBuildFile; fileRef = F1114DE62C8768DB0025E4EB /* Base */; };
+		F1114DEF2C87D4110025E4EB /* GitTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1114DEE2C87D4110025E4EB /* GitTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F1114DE32C8768DB0025E4EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F1114DE62C8768DB0025E4EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F1114DE82C8768DB0025E4EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1114DEE2C87D4110025E4EB /* GitTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				F1114DE32C8768DB0025E4EB /* Assets.xcassets */,
 				F1114DE52C8768DB0025E4EB /* LaunchScreen.storyboard */,
 				F1114DE82C8768DB0025E4EB /* Info.plist */,
+				F1114DEE2C87D4110025E4EB /* GitTest.swift */,
 			);
 			path = GitTestProject2;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F1114DDF2C8768D70025E4EB /* ViewController.swift in Sources */,
+				F1114DEF2C87D4110025E4EB /* GitTest.swift in Sources */,
 				F1114DDB2C8768D70025E4EB /* AppDelegate.swift in Sources */,
 				F1114DDD2C8768D70025E4EB /* SceneDelegate.swift in Sources */,
 			);
