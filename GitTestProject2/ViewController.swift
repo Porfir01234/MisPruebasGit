@@ -12,9 +12,6 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print("print1")
-        print("git2")
-        print("git3")
         print("estamos en mi segunda rama")
         print("nos pasamos a la rama principal")
         print("Estamos mandando esto a github")
